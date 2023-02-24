@@ -1,19 +1,19 @@
 module.exports =
 {
     leader_id: [
-        "928907524596441108"
+        "リーダーのユーザーID"
     ],
     bots: [
-        "MTA3MzkwNzg0NjgzNzcwMjczNw.GIlwvM.bFCyWxSlfEBylLVb19L-47MBlP9pWfZWt3OToU",
-        "MTA3MzkxNTI0NjU4ODIxOTQ3Mg.G8FwTz.dJNdV8bB-K6K16mt1Ak4-X3y9ctaafF68ascOs",
-        "MTA3ODYzODMwNTEzMTkwNTEzNA.G_4yQf.0jkMS33ijGBtW22caKJaYcg_0-6aT49TyYqfyA",
-        "MTA3ODY0MzU3Mjc0MTUxMzI3Nw.GhRo1C.2xyxB5451LiV-VhzFsuX8C89qs9kLnB5qRZc58",
-        "MTA3ODY0NDQxMTQ4NDg4NTA5Mw.GKP68P.ocneqOcNm8pTJBJ3u9a5Rd2wdvXIAQ8u6kXTh8",
-        "MTA3ODY0NDc3NDI1ODYxMDMwNg.GRLXfP.g8DHC8P9l_7SfJp9uMg43TLDdy9axJYEJ-pXag",
-        "MTA3ODY0NDk0OTQ2MzA4NTExNw.G4hT8C.oaHiveuX32eFHxg8czhgymZQnPhwF2aZB4rCtY",
-        "MTA3ODY0NTEyMjA1MDI5Mzc2MA.Gqa8KU.g9m7DFgPQV7epX1M0-bLg36-jdWnLG31oRxGjQ",
-        "MTA3ODY0OTMwNjQwMTIzMDkzMA.GEa_Wo.f_7URZozdnLIfZ3Z9nO3WSgR21Rp3Mbc0_ocJ0",
-        "MTA3ODY0OTQyNjY2NDUwNTM3NQ.GVJisq.y3b5dGCa9pprReGul1ogSNLUxFOBloolJo4IUo",
-        "MTA3ODY0OTUzOTU4NzczNTYzMg.GbjmwZ.DOzAXTkdryw3a0DBrWR1WsHqxNUvXhKvbFtuFY"
+        "リーダーに使うbotのトークン",
+        "配信用のbotのトークン(bot1)",
+        "配信用のbotのトークン(bot2)",
+        "配信用のbotのトークン(bot3)",
+        "配信用のbotのトークン(bot4)",
+        "配信用のbotのトークン(bot5)",
+        "配信用のbotのトークン(bot6)",
+        "配信用のbotのトークン(bot7)",
+        "配信用のbotのトークン(bot8)",
+        "配信用のbotのトークン(bot9)",
+        "配信用のbotのトークン(bot10)"
     ]
 }
